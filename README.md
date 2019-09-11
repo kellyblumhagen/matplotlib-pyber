@@ -1,6 +1,6 @@
 # Pyber
 
-An analysis of all rides booked with the new ride sharing company, Pyber. The dataset used contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+An analysis of all rides booked with the new ride-sharing company, Pyber. The dataset used contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
 Matplotlib was used to create a bubble plot that showcases the relationship between four key variables:
 * Average Fare ($) Per City
